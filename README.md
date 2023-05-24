@@ -3,7 +3,7 @@
 Visitors 
 
 <!-- ![image](https://github.com/Karishma-Moond/Karishma-Moond/assets/93302936/9706cf79-531a-4387-baa9-01123541bee8) -->
-
+<!-- 
 Welcome to Karishma's Github
        
 
@@ -15,5 +15,5 @@ Welcome to Karishma's Github
 💬 Ask me about ...Anything
 📫 How to reach me: ...Linkedin
 😄 Pronouns: ... She/Her
-⚡ Fun fact: ...My favorite time of the day is at dawn because it feels calm.
+⚡ Fun fact: ...My favorite time of the day is at dawn because it feels calm. -->
 
