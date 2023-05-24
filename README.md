@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Karishma Moond 👋
 
-<!--
+Visitors 
+
+<!-- ![image](https://github.com/Karishma-Moond/Karishma-Moond/assets/93302936/9706cf79-531a-4387-baa9-01123541bee8) -->
+
+
 **Karishma-Moond/Karishma-Moond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
