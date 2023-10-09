@@ -39,6 +39,6 @@ Leetcode <a href="https://leetcode.com/karishma121/">https://leetcode.com/karish
 <a href="https://www.linkedin.com/in/karishma-moond-ab7563200/" target="_blank">
   <img align="left" alt="Karishma's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="sumanmoond2021@gmail.com" target="_blank">
-  <img align="left" alt="Suman's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="karishmamoond12016446@gmail.com" target="_blank">
+  <img align="left" alt="Karishma's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
